@@ -1,0 +1,12 @@
+D:\Lection\ExpressionLection\ExpressionLection\bin\Debug\ExpressionLection.exe.config
+D:\Lection\ExpressionLection\ExpressionLection\bin\Debug\ExpressionLection.exe
+D:\Lection\ExpressionLection\ExpressionLection\bin\Debug\ExpressionLection.pdb
+D:\Lection\ExpressionLection\ExpressionLection\obj\Debug\ExpressionLection.Properties.Resources.resources
+D:\Lection\ExpressionLection\ExpressionLection\obj\Debug\ExpressionLection.csproj.GenerateResource.Cache
+D:\Lection\ExpressionLection\ExpressionLection\obj\Debug\ExpressionLection.csproj.CoreCompileInputs.cache
+D:\Lection\ExpressionLection\ExpressionLection\obj\Debug\ExpressionLection.exe
+D:\Lection\ExpressionLection\ExpressionLection\obj\Debug\ExpressionLection.pdb
+D:\Lection\ExpressionLection\ExpressionLection\obj\Debug\ExpressionLection.MainForm.resources
+D:\Lection\ExpressionLection\ExpressionLection\obj\Debug\ExpressionLection.UI.TableSortBadExample.resources
+D:\Lection\ExpressionLection\ExpressionLection\obj\Debug\ExpressionLection.UI.SortTableOwner.resources
+D:\Lection\ExpressionLection\ExpressionLection\obj\Debug\ExpressionLection.csprojAssemblyReference.cache

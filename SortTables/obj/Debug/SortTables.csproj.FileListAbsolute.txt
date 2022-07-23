@@ -1,0 +1,10 @@
+D:\Lection\ExpressionLection\SortTables\bin\Debug\SortTables.exe.config
+D:\Lection\ExpressionLection\SortTables\bin\Debug\SortTables.exe
+D:\Lection\ExpressionLection\SortTables\bin\Debug\SortTables.pdb
+D:\Lection\ExpressionLection\SortTables\obj\Debug\SortTables.csprojResolveAssemblyReference.cache
+D:\Lection\ExpressionLection\SortTables\obj\Debug\SortTables.Form1.resources
+D:\Lection\ExpressionLection\SortTables\obj\Debug\SortTables.Properties.Resources.resources
+D:\Lection\ExpressionLection\SortTables\obj\Debug\SortTables.csproj.GenerateResource.Cache
+D:\Lection\ExpressionLection\SortTables\obj\Debug\SortTables.csproj.CoreCompileInputs.cache
+D:\Lection\ExpressionLection\SortTables\obj\Debug\SortTables.exe
+D:\Lection\ExpressionLection\SortTables\obj\Debug\SortTables.pdb

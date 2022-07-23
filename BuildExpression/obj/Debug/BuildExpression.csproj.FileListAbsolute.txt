@@ -1,0 +1,7 @@
+D:\Lection\ExpressionLection\BuildExpression\bin\Debug\BuildExpression.exe.config
+D:\Lection\ExpressionLection\BuildExpression\bin\Debug\BuildExpression.exe
+D:\Lection\ExpressionLection\BuildExpression\bin\Debug\BuildExpression.pdb
+D:\Lection\ExpressionLection\BuildExpression\obj\Debug\BuildExpression.csproj.CoreCompileInputs.cache
+D:\Lection\ExpressionLection\BuildExpression\obj\Debug\BuildExpression.exe
+D:\Lection\ExpressionLection\BuildExpression\obj\Debug\BuildExpression.pdb
+D:\Lection\ExpressionLection\BuildExpression\obj\Debug\BuildExpression.csprojResolveAssemblyReference.cache
